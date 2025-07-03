@@ -1,45 +1,28 @@
 # Image Watermarker 🖼️💧
-A C# Windows Forms application for adding customizable, rotated watermark text to your images.
+A C# WinForms app to add customizable, rotated watermark text to images. Browse, preview, and save watermarked images easily.
 
-### Features ✨
-Browse and preview images from your local machine 🖥️
+## Features ✨
+Browse and preview images 🖥️
 
-Add a centered watermark rotated at 45° for a sleek diagonal effect 🔄
+Add centered watermark rotated at 45° 🔄
 
-Support for BMP, JPG, GIF, PNG, TIFF image formats 📁
+Supports BMP, JPG, GIF, PNG, TIFF 📁
 
-Adjustable watermark text size and transparency 🎨
+Adjustable watermark size and transparency 🎨
 
-Save the watermarked image to any folder you choose 💾
+Save output to any folder 💾
 
-Simple and intuitive user interface for quick operation ⚙️
+## Installation 🚀
+Download the latest release from Releases and run the EXE.
 
-### Installation 🚀
+## Usage 🎯
+Browse for an image file.
 
-1. Download the latest release
-Head over to the Releases page and download the precompiled executable (EXE) from the latest release. No setup needed—just run it.
+Enter watermark text.
 
-### Usage 🎯
-Click Browse to select an image file.
+(Optional) Select output folder.
 
-Enter your desired watermark text in the text box.
+Click Preview to see and save the watermarked image.
 
-(Optional) Select an output folder where the watermarked image will be saved.
-
-Click Preview to see the watermarked image. The application will also save the output image automatically.
-
-### Dependencies 📦
-Uses built-in System.Drawing for image manipulation.
-
-No external libraries or NuGet packages required.
-
-### Contribution 🤝
-Contributions and improvements are welcome! Feel free to submit issues or pull requests.
-
-### License 📄
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Screenshots 📸
-
-### Preview 
-![Preview](screenshots/image.png)
+## License 📄
+MIT License. See LICENSE for details.
