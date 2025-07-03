@@ -1,7 +1,7 @@
-### Image Watermarker 🖼️💧
+# Image Watermarker 🖼️💧
 A C# Windows Forms application for adding customizable, rotated watermark text to your images.
 
-## Features ✨
+### Features ✨
 Browse and preview images from your local machine 🖥️
 
 Add a centered watermark rotated at 45° for a sleek diagonal effect 🔄
@@ -14,7 +14,7 @@ Save the watermarked image to any folder you choose 💾
 
 Simple and intuitive user interface for quick operation ⚙️
 
-## Installation 🚀
+### Installation 🚀
 
 1. Download the latest release
 Head over to the Releases page and download the precompiled executable (EXE) from the latest release. No setup needed—just run it.
@@ -33,7 +33,7 @@ Build and run the project
 
 Build and run the project
 
-## Usage 🎯
+### Usage 🎯
 Click Browse to select an image file.
 
 Enter your desired watermark text in the text box.
@@ -42,13 +42,13 @@ Enter your desired watermark text in the text box.
 
 Click Preview to see the watermarked image. The application will also save the output image automatically.
 
-## Dependencies 📦
+### Dependencies 📦
 Uses built-in System.Drawing for image manipulation.
 
 No external libraries or NuGet packages required.
 
-## Contribution 🤝
+### Contribution 🤝
 Contributions and improvements are welcome! Feel free to submit issues or pull requests.
 
-## License 📄
+### License 📄
 This project is licensed under the MIT License. See the LICENSE file for details.
