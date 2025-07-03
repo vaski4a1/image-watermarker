@@ -19,20 +19,6 @@ Simple and intuitive user interface for quick operation ⚙️
 1. Download the latest release
 Head over to the Releases page and download the precompiled executable (EXE) from the latest release. No setup needed—just run it.
 
-2. Build from source
-
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/ImageWatermarker.git
-Open the solution file (.sln) in Visual Studio (recommended .NET Framework 4.7.2 or later)
-
-Build and run the project
-
-Build and run the project
-
 ### Usage 🎯
 Click Browse to select an image file.
 
